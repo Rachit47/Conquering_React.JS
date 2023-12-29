@@ -1,0 +1,33 @@
+{
+  "name": "conquering-react",
+  "version": "1.0.0",
+  "description": "Learning React ",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rachit47/Conquering_React.JS.git"
+  },
+  "keywords": [
+    "react",
+    "react18"
+  ],
+  "author": "Rachit Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rachit47/Conquering_React.JS/issues"
+  },
+  "homepage": "https://github.com/Rachit47/Conquering_React.JS#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserlist": [
+    "last 2 versions"
+  ]
+}

@@ -1,3 +1,6 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
+
 const heading = React.createElement("h1", { id: "heading" }, "Hello there !");
 // creating a react element (h1) using first file, which contains the core react development code
 // Note: react element is a normal JavaScript object
